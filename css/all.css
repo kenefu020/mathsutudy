@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.mente {
+    display: none;
+}
+
+.mainbox{
+    margin: 1rem;
+    padding: 2rem;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.backpage{
+    padding: 10px;
+    border-radius: 25px;
+    color: white;
+    background-color: rgb(2, 2, 143);
+}
+
+.backpage:hover{
+    padding: 10px;
+    border-radius: 25px;
+    color: black;
+    background-color: rgb(255, 0, 0);
+}
