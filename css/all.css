@@ -9,6 +9,7 @@ body {
 
 .mainbox{
     margin: 1rem;
+    margin-bottom: 5rem;
     padding: 2rem;
     background-color: white;
     border-radius: 50px;
@@ -42,3 +43,12 @@ a{
 p{
     font-size: 125%;
 }
+
+.select{
+      cursor: pointer;
+    }
+
+    .list{
+            display: inline-block;
+            margin: auto;
+        }
